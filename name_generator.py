@@ -79,10 +79,6 @@ saved_fun_list = []
 saved_ln_list = []
 
 
-def new():
-    pass
-
-
 def search():
     list_box.delete(0, END)
     global gender
