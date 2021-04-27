@@ -3,7 +3,7 @@ A "Name Generator" program using Tkinter and BeautifulSoup
 
 ## HOW IT WORKS
 
-*  The Gender and Type of the name has to be selected using the Drop Down Menu before searching.
+*  The ***Gender*** and ***Type*** of the name has to be selected using the Drop Down Menu before searching.
 
 *  The "Search" Button generates random names below.
 
@@ -20,8 +20,8 @@ A "Name Generator" program using Tkinter and BeautifulSoup
 
 ## Accessing Data
 
-*  The names are "webscraped" using BeautifulSoup.
+*  The names are **webscraped** using ***BeautifulSoup***.
 
-*  100 Male and Female, first names and last names are collected.
+*  **100** Male and Female, first names and last names are collected.
 
 *  The Full Names that are generated are a random combination of M/F first name and last name.
