@@ -234,7 +234,7 @@ def text_file():
                 for w in range(0, len(saved_fun_list)):
                     f2.write(f"{1+w}. {saved_fun_list[w]}\n\n\n")
         messagebox.showinfo(
-            "Success", "A New Text is File Created at D:\pyproj !!")
+            "Success", "A New Text is File Created at Desktop !!")
     else:
         with open("names_1.txt", "w") as f:
             f.write("----FIRST NAMES----\n\n")
@@ -262,7 +262,7 @@ def text_file():
         saved_fn_list.clear()
         saved_ln_list.clear()
         saved_fun_list.clear()
-        messagebox.showinfo("Success", "Text File Created at D:\pyproj !!")
+        messagebox.showinfo("Success", "Text File Created at Desktop !!")
 
 
 def saved_names():
