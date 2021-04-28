@@ -265,10 +265,6 @@ def text_file():
         messagebox.showinfo("Success", "Text File Created at Desktop !!")
 
 
-def ok():
-    pass
-
-
 def saved_names():
     global screen
     screen = Tk()

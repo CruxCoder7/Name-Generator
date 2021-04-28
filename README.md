@@ -3,14 +3,6 @@ A "Name Generator" program using Tkinter and BeautifulSoup
 
 ## HOW IT WORKS
 
-| pip install requests |
-|----|
-
-| pip install bs4 |
-|----|
-
-
-
 *  The ***Gender*** and ***Type*** of the name has to be selected using the Drop Down Menu before searching.
 
 *  The "Search" Button generates random names below.
